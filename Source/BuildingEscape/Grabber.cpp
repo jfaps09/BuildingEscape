@@ -22,7 +22,6 @@ void UGrabber::BeginPlay()
 	Super::BeginPlay();
 
 	FindPhysicsHandle();
-	//test
 	SetupInputComponent();	
 }
 
