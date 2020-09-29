@@ -1,0 +1,10 @@
+{
+	"files.exclude": {
+		"E:/Unreal Projects/BuildingEscape/.vs": true,
+		"E:/Unreal Projects/BuildingEscape/.vscode": true,
+		"E:/Unreal Projects/BuildingEscape/Content": true,
+		"E:/Unreal Projects/BuildingEscape/DerivedDataCache": true,
+		"E:/Unreal Projects/BuildingEscape/Intermediate": true,
+		"E:/Unreal Projects/BuildingEscape/Saved": true
+	}
+}
